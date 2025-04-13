@@ -4,7 +4,7 @@ Plugin para WordPress que adiciona recursos de gráficos ao Tutor LMS.
 
 ## Descrição
 
-Tutor Pro Charts é um plugin adicional para o Tutor LMS que permite a visualização de dados em formato de gráficos, facilitando o acompanhamento de progresso, participação e desempenho em cursos.
+Tutor Pro Charts é um plugin para o Tutor LMS Pro que permite a visualização de dados em formato de gráficos, facilitando o acompanhamento de progresso, participação e desempenho em cursos.
 
 ## Recursos
 
@@ -36,3 +36,11 @@ Tutor Pro Charts é um plugin adicional para o Tutor LMS que permite a visualiza
 ## Licença
 
 Este projeto está licenciado sob a licença GPL v2 ou posterior
+
+## Roadmap
+
+- Paginas de adminitração
+- Dashboard overview
+- Monitoramento de progresso do aluno
+- Monitoramento de cursos
+- Verificação de plugins recomendados
